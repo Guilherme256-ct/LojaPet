@@ -1,0 +1,27 @@
+
+MODELS
+
+Agendamento
+Cliente
+Pet
+Simulacao
+Usuario
+Funcionaio
+Orcamento
+
+
+CONTROLLERS
+
+ContaController
+HomeController
+OrcamentoController
+
+
+VIEWS
+
+Conta - Login.cshtml
+Home - Index.cshtml
+Orcamento - Index.cshtml
+
+Ajuste no _Laout.cshtml
+Ajustes no Program.cs (mudar para iniciar no login)
